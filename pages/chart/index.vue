@@ -212,7 +212,7 @@ export default {
 </script>
 <style lang="stylus">
 body {
-  background: rebeccapurple;
+  background: black;
 }
 
 * {
