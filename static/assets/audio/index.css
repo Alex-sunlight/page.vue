@@ -88,10 +88,6 @@ a {
   line-height: 20px;
 }
 
-.icon_sprite {
-  background: url('/assets/audio/icon_sprite.png');
-}
-
 .back {
   display: inline-block;
   background-position: -58px -258px;
@@ -759,12 +755,12 @@ input[type='color'] {
   margin-top: 42px;
 }
 
-.wave {
+/* .wave {
   width: 10px;
   height: 10px;
   background: url('/assets/audio/wave.gif') no-repeat;
   display: none;
-}
+} */
 
 .songlist-name {
   width: 200px;
@@ -822,7 +818,7 @@ input[type='color'] {
   cursor: pointer;
 }
 
-.lognChoose span:last-child {
+/* .lognChoose span:last-child {
   top: 10px;
   right: 10px;
   display: inline-block;
@@ -830,7 +826,7 @@ input[type='color'] {
   height: 12px;
   background: url('/assets/audio/icon_popup.png');
   background-position: 0 -200px;
-}
+} */
 
 .QQLogin {
   height: 65%;
