@@ -3,19 +3,19 @@
     <div class="screen" id="screen">
       <ul>
         <li>
-          <img src="/chart/111.jpg" width="500" height="300" />
+          <img src="~/assets/chart/111.jpg" width="500" height="300" />
         </li>
         <li>
-          <img src="/chart/222.jpg" width="500" height="300" />
+          <img src="~/assets/chart/222.jpg" width="500" height="300" />
         </li>
         <li>
-          <img src="/chart/333.png" width="500" height="300" />
+          <img src="~/assets/chart/333.png" width="500" height="300" />
         </li>
         <li>
-          <img src="/chart/444.jpg" width="500" height="300" />
+          <img src="~/assets/chart/444.jpg" width="500" height="300" />
         </li>
         <li>
-          <img src="/chart/555.jpeg" width="500" height="300" />
+          <img src="~/assets/chart/555.jpeg" width="500" height="300" />
         </li>
       </ul>
       <ol></ol>
