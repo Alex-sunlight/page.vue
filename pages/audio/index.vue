@@ -53,7 +53,7 @@
             <span class="song-mv icon_sprite"></span>
             <span class="song-tone icon_sprite"></span>
           </div>
-          <div class="song-info">
+          <div class="song-info" >
             <span class="song-album"><a href="#"></a></span>
             <span class="singer"><a href="#"></a></span>
             <span class="song-sour"><a href="#"></a></span>
