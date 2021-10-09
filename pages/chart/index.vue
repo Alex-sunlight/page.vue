@@ -33,9 +33,7 @@ export default {
       //    清除定时器
       if (element.timeid) {
         clearInterval(element.timeid)
-      }
-
-      //    1. 设置定时器
+      } //    1. 设置定时器
       element.timeid = setInterval(function () {
         //        2. 获取元素的当前位置
         var current = element.offsetLeft
